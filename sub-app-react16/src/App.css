@@ -1,0 +1,30 @@
+form {
+  display: flex;
+  flex-direction: row;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.input {
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.button {
+  color: white;
+  background-color: rgb(179, 96, 48);
+  border-radius: 5px;
+}
+
+
+.list {
+  width: 250px;
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+  cursor: pointer;
+}
